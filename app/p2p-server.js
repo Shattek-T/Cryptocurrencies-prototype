@@ -1,3 +1,4 @@
+// Copyright (c) 2025 Shattek-T. All rights reserved.
 const Websocket = require('ws');
 
 const P2P_PORT = process.env.P2P_PORT || 5001;
