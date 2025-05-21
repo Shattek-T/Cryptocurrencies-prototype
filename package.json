@@ -1,0 +1,32 @@
+{
+  "name": "cryptocurrencies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "S-test": "jest --watchAll",
+    "dev-test": "nodemon dev-test",
+    "shattek-test": "nodemon dev-test",
+    "start-app": "node ./app",
+    "dev-app": "nodemon ./app"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.2"
+  }
+}
