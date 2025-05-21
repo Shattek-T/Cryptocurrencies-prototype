@@ -1,3 +1,4 @@
+// Copyright (c) 2025 Shattek-T. All rights reserved.
 const DIFFICULTY = 4;
 const MINE_RATE = 3000;
 const INITIAL_BALANCE = 500;
