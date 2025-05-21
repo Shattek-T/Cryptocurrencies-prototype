@@ -1,3 +1,4 @@
+// Copyright (c) 2025 Shattek-T. All rights reserved.
 const express = require('express');
 const bodyParser = require('body-parser');
 const Blockchain = require('../blockchain');
