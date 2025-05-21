@@ -1,3 +1,4 @@
+// Copyright (c) 2025 Shattek-T. All rights reserved.
 const EC = require('elliptic').ec;
 const SHA256 = require('crypto-js/sha256');
 const { v1: uuidV1 } = require('uuid'); // fixed import
