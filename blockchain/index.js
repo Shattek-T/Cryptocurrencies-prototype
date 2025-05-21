@@ -1,3 +1,4 @@
+// Copyright (c) 2025 Shattek-T. All rights reserved.
 const Block = require('./block');
 
 class Index {
