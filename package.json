@@ -1,6 +1,7 @@
 {
   "name": "cryptocurrencies",
   "version": "1.0.0",
+  "_comment": "Copyright (c) 2025 Shattek-T. All rights reserved.",
   "main": "index.js",
   "scripts": {
     "S-test": "jest --watchAll",
