@@ -1,6 +1,8 @@
 # Cryptocurrencies-Prototype
 
-Copyright (c) 2025 Shattek-T. All rights reserved.
+<space>
+© 2025 Shattek-T. All rights reserved.
+<space>
 
 My mission is to educate, explore, and empower through open-source blockchain development.
 
@@ -12,5 +14,3 @@ I do not offer financial advice. I do not attack individuals or projects. I teac
 
 Whether you're a builder, a dreamer, or just curious — you're welcome here. Let's grow together, responsibly and fearlessly.
 
-
-Copyright (c) 2025 Shattek-T. All rights reserved.
