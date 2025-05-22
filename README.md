@@ -3,6 +3,8 @@
 <space>
 © 2025 Shattek-T. All rights reserved.
 <space>
+<br>
+<br>
 
 My mission is to educate, explore, and empower through open-source blockchain development.
 
